@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-Tech Stack (Descending order of proficiency):
-Java
-Python
-C
+🛠️ Tech Stack (Descending order of proficiency):
+* Java
+* Python
+* C
 <!--
 **EoinOKelly/EoinOKelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
