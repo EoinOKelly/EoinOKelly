@@ -1,12 +1,10 @@
-## Hi there 👋
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EoinOKelly&show_icons=true&theme=radical)
 
 🛠️ Tech Stack (Descending order of proficiency):
 * Java
 * JavaScript
 * Python
 * C
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EoinOKelly&layout=compact&theme=radical)
 
 <!--
 **EoinOKelly/EoinOKelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
