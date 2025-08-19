@@ -4,7 +4,6 @@
 * Java
 * JavaScript
 * Python
-* TypeScript
 * C
 <!--
 **EoinOKelly/EoinOKelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
