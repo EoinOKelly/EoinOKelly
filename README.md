@@ -1,5 +1,3 @@
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EoinOKelly&show_icons=true&theme=radical)
-
 🛠️ Tech Stack (Descending order of proficiency):
 * Python
 * Java
